@@ -311,7 +311,7 @@ section{
 
 .container .sidebar .box .category a{
     padding:.4rem 0;
-    font-size: 1.5rem;
+    font-size: 2rem;
     color:var(--black);
     display: flex;
     align-items: center;
@@ -555,6 +555,6 @@ section{
 
     .contact form .inputBox input{
         width:100%;
-    }    
+    }   
 
 }
